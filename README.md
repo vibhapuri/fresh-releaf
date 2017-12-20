@@ -1,4 +1,2 @@
-Link to front-end work done for Releaf:
-www.freshreleaf.org
-username: puri16v@gmail.com
-password: test
+Link to interaction with front-end work done for Releaf:
+https://www.youtube.com/watch?v=A_0BjgOgxxc&feature=youtu.be
